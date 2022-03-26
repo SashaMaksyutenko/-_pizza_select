@@ -1,9 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Collections;
-using System.IO;
-using System.Text.Json;
 using System.Text;
+using System.Text.Json;
 using System.Text.Json.Serialization;
 
 namespace JsonWork
@@ -11,6 +9,11 @@ namespace JsonWork
     public class PizzaIngredients : IEquatable<PizzaIngredients?>
     {
         public string[] toppings { get; set; }
+
+        public void Normal()
+        {
+            Array.Sort(toppings);
+        }
 
         public override bool Equals(object? obj)
         {
@@ -51,7 +54,8 @@ namespace JsonWork
 
             foreach (var item in pizzass)
             {
-                if(pizzasCount.Keys.Contains(item))
+                item.Normal();
+                if (pizzasCount.Keys.Contains(item))
                 {
                     pizzasCount[item]++;
                 }
@@ -72,7 +76,7 @@ namespace JsonWork
                     Console.Write(it + " ");
                 }
                 Console.WriteLine();
-                Console.WriteLine($"the quantity of orders: {item.Value};");
+                Console.WriteLine($"quantity of orders: {item.Value}");
                 cnt++;
                 if (cnt == 20)
                     break;

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/sashamaksyutenko/Downloads/JsonWork/JsonWork.csproj": {}
+    "/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/JsonWork.csproj": {}
   },
   "projects": {
-    "/Users/sashamaksyutenko/Downloads/JsonWork/JsonWork.csproj": {
+    "/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/JsonWork.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/sashamaksyutenko/Downloads/JsonWork/JsonWork.csproj",
+        "projectUniqueName": "/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/JsonWork.csproj",
         "projectName": "JsonWork",
-        "projectPath": "/Users/sashamaksyutenko/Downloads/JsonWork/JsonWork.csproj",
+        "projectPath": "/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/JsonWork.csproj",
         "packagesPath": "/Users/sashamaksyutenko/.nuget/packages/",
-        "outputPath": "/Users/sashamaksyutenko/Downloads/JsonWork/obj/",
+        "outputPath": "/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/sashamaksyutenko/.nuget/NuGet/NuGet.Config"

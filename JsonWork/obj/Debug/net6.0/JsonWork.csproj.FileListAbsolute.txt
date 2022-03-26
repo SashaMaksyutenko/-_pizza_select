@@ -30,3 +30,20 @@ D:/Books/Test/C#/JsonWork/obj/Debug/net6.0/JsonWork.genruntimeconfig.cache
 /Users/sashamaksyutenko/Downloads/JsonWork/obj/Debug/net6.0/JsonWork.csproj.CopyComplete
 /Users/sashamaksyutenko/Downloads/JsonWork/obj/Debug/net6.0/refint/JsonWork.dll
 /Users/sashamaksyutenko/Downloads/JsonWork/obj/Debug/net6.0/JsonWork.genruntimeconfig.cache
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/bin/Debug/net6.0/JsonWork
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/bin/Debug/net6.0/JsonWork.deps.json
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/bin/Debug/net6.0/JsonWork.runtimeconfig.json
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/bin/Debug/net6.0/JsonWork.dll
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/bin/Debug/net6.0/JsonWork.pdb
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/bin/Debug/net6.0/System.Text.Json.dll
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.csproj.AssemblyReference.cache
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.AssemblyInfoInputs.cache
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.AssemblyInfo.cs
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.csproj.CoreCompileInputs.cache
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.csproj.CopyComplete
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.dll
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/refint/JsonWork.dll
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.pdb
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/JsonWork.genruntimeconfig.cache
+/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/obj/Debug/net6.0/ref/JsonWork.dll

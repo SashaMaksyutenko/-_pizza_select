@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{2D0806FC-425A-461D-A37C-7FAF70EF8AA2}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" Line="61" Column="18" />
+      <File FileName="Program.cs" Line="56" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="JsonWork" expanded="True">
-            <Node name="JsonWork" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
+            <Node name="JsonWork" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -20,9 +18,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.JsonWork PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.JsonWork PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

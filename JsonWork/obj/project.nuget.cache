@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0HQkp72FP3uY0SZ+H26WuTvwn1DS7ogBPZdm01lnViiDNiu7O8aVjshpIsdyMTgstZaiUivsHbgdFEhBEjmugg==",
+  "dgSpecHash": "uOpCYcpX7DoAR6haFV/B4jg+xte7kS6BI05ae789oNToP8DP12pjsunOhgGDoau2T4XYyHMQbvbXtoBl1HjEhg==",
   "success": true,
-  "projectFilePath": "/Users/sashamaksyutenko/Downloads/JsonWork/JsonWork.csproj",
+  "projectFilePath": "/Users/sashamaksyutenko/Desktop/C# projects/pizza_select/-_pizza_select/JsonWork/JsonWork.csproj",
   "expectedPackageFiles": [
     "/Users/sashamaksyutenko/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/Users/sashamaksyutenko/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
